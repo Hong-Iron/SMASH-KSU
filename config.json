@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "건학기념관": {
+      "style": "stone",
+      "wall": "#b4b6b8",
+      "glass": "#383539",
+      "frame": "#6c7b88"
+    },
+    "중앙도서관": {
+      "style": "brick",
+      "wall": "#c98a62",
+      "glass": "#4c5a5a",
+      "frame": "#f2f2ee"
+    },
+    "자연관": {
+      "style": "ribbon",
+      "wall": "#f4e7ce",
+      "glass": "#2a2c2c",
+      "frame": "#9b8773"
+    },
+    "제2공학관": {
+      "style": "ribbon",
+      "wall": "#a0adad",
+      "glass": "#3e4a4c",
+      "frame": "#7a8a8a"
+    },
+    "멀티미디어관": {
+      "style": "ribbon",
+      "wall": "#f0f1ef",
+      "glass": "#2e3834",
+      "frame": "#dfcfc7"
+    },
+    "인문관": {
+      "style": "stone",
+      "wall": "#ece9e3",
+      "glass": "#2a2e30",
+      "frame": "#b5846e"
+    },
+    "상학관": {
+      "style": "ribbon",
+      "wall": "#e6e9f0",
+      "glass": "#4a5a70",
+      "frame": "#a9b4c4"
+    },
+    "콘서트홀": {
+      "style": "stone",
+      "wall": "#dde2e2",
+      "glass": "#505556",
+      "frame": "#826d70"
+    },
+    "사회관": {
+      "style": "stone",
+      "wall": "#e6e6e3",
+      "glass": "#3a4044",
+      "frame": "#a0a4a8"
+    },
+    "제1공학관": {
+      "style": "stone",
+      "wall": "#b9c4c8",
+      "glass": "#2e3a40",
+      "frame": "#85a2b2"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
